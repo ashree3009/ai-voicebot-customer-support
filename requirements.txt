@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+openai-whisper
+torch
+transformers
+datasets
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+gtts
+soundfile
+python-multipart
+loguru
+jiwer

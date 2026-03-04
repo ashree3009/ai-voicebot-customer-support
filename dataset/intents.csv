@@ -1,0 +1,111 @@
+text,intent
+
+Where is my order?,order_status
+Track my order,order_status
+Can you tell me my delivery status?,order_status
+Has my order been shipped?,order_status
+When will my order arrive?,order_status
+Check my order status,order_status
+I want to know my order status,order_status
+Is my order delivered?,order_status
+Give me my order update,order_status
+What's the delivery status of my order?,order_status
+
+Cancel my order,cancel_order
+I want to cancel my order,cancel_order
+Please cancel my purchase,cancel_order
+Stop my order delivery,cancel_order
+Cancel the order I placed,cancel_order
+Abort my order,cancel_order
+I don't want this order anymore,cancel_order
+Please stop my order,cancel_order
+Cancel the product I ordered,cancel_order
+I need to cancel my recent order,cancel_order
+
+I want a refund,refund_request
+Please refund my payment,refund_request
+Requesting refund for my order,refund_request
+I want my money back,refund_request
+Refund the amount I paid,refund_request
+I need a refund for my purchase,refund_request
+Return my money please,refund_request
+How can I get a refund?,refund_request
+Refund my order immediately,refund_request
+I want to request a refund,refund_request
+
+My subscription is not working,subscription_issue
+I cannot access my subscription,subscription_issue
+Subscription problem on my account,subscription_issue
+My subscription has stopped,subscription_issue
+Why is my subscription inactive?,subscription_issue
+Subscription renewal failed,subscription_issue
+I have an issue with my subscription,subscription_issue
+Subscription service is not active,subscription_issue
+Help me with my subscription problem,subscription_issue
+My premium subscription is not working,subscription_issue
+
+Payment failed during checkout,payment_issue
+My payment did not go through,payment_issue
+Why was my payment declined?,payment_issue
+I was charged twice,payment_issue
+Payment problem with my order,payment_issue
+My card payment failed,payment_issue
+I cannot complete the payment,payment_issue
+Payment error occurred,payment_issue
+My transaction failed,payment_issue
+Payment was unsuccessful,payment_issue
+
+Update my account details,account_update
+I want to change my email,account_update
+Update my phone number,account_update
+Modify my account information,account_update
+Change my account password,account_update
+Edit my profile information,account_update
+Update my billing address,account_update
+Correct my account details,account_update
+I need to update my account info,account_update
+Please change my account details,account_update
+
+The app is not working,technical_support
+I am facing a technical issue,technical_support
+The website keeps crashing,technical_support
+App crashes when I open it,technical_support
+Technical problem with the application,technical_support
+The system is not responding,technical_support
+Something is wrong with the app,technical_support
+Help me fix this technical issue,technical_support
+I cannot log into the app,technical_support
+The platform is not loading,technical_support
+
+Tell me about this product,product_information
+I need product details,product_information
+What are the features of this product?,product_information
+Give me information about this item,product_information
+Explain this product to me,product_information
+I want product specifications,product_information
+What does this product do?,product_information
+Can you describe the product?,product_information
+Provide details about the product,product_information
+Tell me more about this product,product_information
+
+I want to file a complaint,complaint
+I am not happy with your service,complaint
+This product is defective,complaint
+I have a complaint about my order,complaint
+I am dissatisfied with the service,complaint
+This is unacceptable service,complaint
+I want to report an issue,complaint
+I need to complain about a product,complaint
+Your service is very poor,complaint
+I want to raise a complaint,complaint
+
+Connect me to a human agent,speak_to_agent
+I want to talk to customer support,speak_to_agent
+Let me speak with a representative,speak_to_agent
+Transfer me to a human agent,speak_to_agent
+I want to speak to support staff,speak_to_agent
+Can I talk to a real person?,speak_to_agent
+Please connect me to an agent,speak_to_agent
+I want to talk to someone,speak_to_agent
+Put me through to customer support,speak_to_agent
+Let me speak with a support representative,speak_to_agent
